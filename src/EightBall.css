@@ -1,0 +1,16 @@
+.EightBall {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .EightBall-message {
+    padding: 20px;
+  }
